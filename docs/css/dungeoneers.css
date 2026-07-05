@@ -5,7 +5,7 @@
    HTML Book — reading measure, tables, figures, diagrams, motion
    preferences). This file holds only what's specific to
    DUNGEONEERS: typeface choices, heading/admonition-title styling,
-   and the admonition colour palette.
+   and the admonition color palette.
 
    Forked from the PsiOps Field Manual's branding layer. Typography
    and admonition palette revised for DUNGEONEERS' low-fantasy,
@@ -28,8 +28,6 @@
 
 /* ---- Base typography -------------------------------------------------- */
 
-/* Serif body, slightly looser leading than the PsiOps Plex Serif value —
-   Fauna One is a touch lighter optically and benefits from ~1.7 over 1.6. */
 body {
     font-family: "Fauna One", Georgia, serif;
     overflow-wrap: break-word;
@@ -41,8 +39,6 @@ body {
     line-height: 1.65;
 }
 
-
-
 /* ---- Headings ---------------------------------------------------------
    Cinzel uppercase for all heading levels. Cinzel's carved, inscriptional
    character creates contrast with the Fauna One body and reads as old
@@ -50,7 +46,7 @@ body {
    register — used sparingly (headings + admonition titles only) so it
    doesn't tip into imperial-epic high-fantasy.
    letter-spacing at 0.04em suits Cinzel at heading sizes; PsiOps used
-   0.05em for the condensed face, Cinzel reads slightly looser at the
+   0.05em for the condensed face; Cinzel reads slightly looser at the
    same value so it's been pulled in a touch.
    ---------------------------------------------------------------------- */
 
@@ -68,6 +64,7 @@ body {
 
 /* Cinzel is a full-width serif, not condensed — slightly more vertical
    space than Barlow Condensed needed to avoid feeling cramped. */
+
 .md-typeset h1,
 .md-typeset h2 {
     line-height: 1.2;
@@ -119,7 +116,7 @@ body {
 }
 
 /* ---- Admonition colour palette ----------------------------------------
-   Overrides Material's default vivid palette with muted, earthy colours
+   Overrides Material's default vivid palette with muted, earthy colors
    suited to DUNGEONEERS' low-fantasy, grounded-but-not-bleak register —
    desaturated toward brown/ochre rather than grey/black, per the Option B
    mockup. Five types are used in the source, remapped from PsiOps:

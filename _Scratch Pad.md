@@ -23,3 +23,20 @@ _Scratch Pad
 ---
 
 This work includes material taken from the [System Reference Document 5.1 (“SRD 5.1”)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast LLC. The SRD 5.1 is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+## Usage and Durability
+
+Most items have a specified number of **uses** to track resource consumption or durability. After eating rations, for example, mark off one use.
+
+After all the uses are marked off on an item, it is depleted or rendered unusable.
+
+Unless specified otherwise, all items have three uses.
+
+- **Ammo**: Mark usage whenever you roll the ranged weapon's maximum damage.
+- **Armor**: Mark usage whenever the armor absorbs all damage from an attack.
+- **Rations**: Mark usage after a meal.
+- **Torches and lanterns**: mark usage every 6 turns.
+- **Weapons**: Mark usage whenever you roll the weapon's minimum damage.
+- **Other gear**: If you use it in a way that could break or deplete it, the GM may ask you to mark its usage.
+
+An artisan in a town can repair usage on most damaged items for 10% of the original cost per point of usage removed. Alternatively, you can spend one unit of adventuring supplies to repair one point of usage on an item while adventuring.

@@ -9,11 +9,12 @@
 - **Dice are dangerous**. Solve problems with planning and ingenuity, not dice rolls. Think laterally. Always gain an advantage. Your character sheet doesn’t limit you.
 - **Foes are deadly**. Combat is not a sport. Fight dirty. Sometimes you need to run away.
 - **Play to win, but savor a loss**. Leave your mark on the world. Create a memorable story.
-    
+  
+
 !!! quote
 
 	Play your character like you’re driving a stolen car.<br/>–John Harper, *[Blades in the Dark](https://bladesinthedark.com/basics)*
-    
+
 
 ## Attribute Saves
 

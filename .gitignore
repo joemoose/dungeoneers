@@ -2,3 +2,6 @@
 *.pdf
 /.cache
 /site
+/ideas
+/.vscode
+.vscode/settings.json

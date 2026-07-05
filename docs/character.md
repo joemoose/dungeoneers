@@ -2,7 +2,7 @@
 
 You're a newly minted **DUNGEONEER**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade. You're no ordinary folk. You'll live a dangerous life, questing for gold and glory. You'll delve into dark, forgotten places best left undisturbed. With a little luck, you might just retire before you die.
 
-Follow these steps to create your character. 
+Follow these steps to create your character.
 
 ## Dice Notation
 
@@ -42,9 +42,9 @@ Randomly determine your *name* and *appearance* from the following tables.
 
 ### Names Table
 
-Roll a **d20** and then a **d6** to determine your name. 
+Roll a **d20** and then a **d6** to determine your name.
 
-|   | 1–2 | 3–4 | 5–6 |
+| | 1–2 | 3–4 | 5–6 |
 | :-: | - | - | - |
 | 1 | Adelaide | Faustus | Oswald |
 | 2 | Balthazar | Fern | Pepper |
@@ -69,9 +69,9 @@ Roll a **d20** and then a **d6** to determine your name.
 
 ### Surnames Table
 
-Roll a **d20** and then a **d6** to determine your surname. 
+Roll a **d20** and then a **d6** to determine your surname.
 
-|   | 1–2 | 3–4 | 5–6 |
+| | 1–2 | 3–4 | 5–6 |
 | :-: | - | - | - |
 | 1 | Barrow | Girdwood | Romatet |
 | 2 | Beetleman | Gorgos | Rothery |
@@ -96,9 +96,9 @@ Roll a **d20** and then a **d6** to determine your surname.
 
 ### Appearance Table
 
-Roll two or three times with a **d20** and a **d6** to determine two or three physical traits that people notice when they first see you. 
+Roll two or three times with a **d20** and a **d6** to determine two or three physical traits that people notice when they first see you.
 
-|   | 1–2 | 3–4 | 5–6 |
+| | 1–2 | 3–4 | 5–6 |
 | :-: | :- | :- | :- |
 | 1 | Acid Scars | Hawk Nose | Rotten Teeth |
 | 2 | Battle Scars | Immense | Scrubbed |
@@ -139,7 +139,7 @@ Assign the scores **3**, **2**, and **1** in any order you prefer.
 
 *Hit protection* (HP) is the amount of damage you can absorb before suffering potentially serious injuries. HP can be restored quickly and easily.
 
-Your HP equals **3** + **BRAWN** + **FINESSE**. 
+Your HP equals **3** + **BRAWN** + **FINESSE**.
 
 The number of *open slots* in your *inventory* affects your HP.
 
@@ -165,7 +165,6 @@ See [Gear](gear.md) and [Inventory Slots](gear.md#inventory-slots).
 | 1–2 | Greatsword (1d+2 Damage, 2 Slots), chainmail (2 Armor, 2 Slots), rope, whetstone, 1d×10 coins, rations (p2 Uses), torches (p2 Uses). |
 | 3–4 | Spear (1d+1 Damage), brigandine (1 Armor, 2 Slots), traps (p2 Uses), crowbar, 1d×10 coins, rations (p2 Uses), torches (p2 Uses). |
 | 5–6 | Mace (1d+1 Damage), shield (+1 Armor), healing herbs (p2 Uses), chain (10ft), 1d×10 coins, rations (p2 Uses), torches (p2 Uses). |
-
 
 ### FINESSE Kits
 
@@ -230,7 +229,7 @@ Roll **d66** once, then consult the following table to select an odd *keepsake* 
 
 Write a brief description of your character, ideally a sentence or two, and introduce yourself to the other players in your adventuring party.
 
-Fare thee well, dungeoneer! May luck attend your adventures. 
+Fare thee well, dungeoneer! May luck attend your adventures.
 
 ## Example DUNGEONEER
 

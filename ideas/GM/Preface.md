@@ -21,10 +21,6 @@ If you have experience as a game master, this guide will offer advice and exampl
 Enjoy!
 
 Zachary Taylor
-[date]
-
-
-
 
 --- 
 
