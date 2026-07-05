@@ -1,6 +1,6 @@
 # Introduction
 
-==**DUNGEONEERS** is a… TEXT==
+==**DUNGEONEERS** is a… WORK IN PROGRESS==
 
 ## Before We Begin
 
