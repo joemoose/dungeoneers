@@ -8,7 +8,7 @@ Combat is dangerous, and wise adventurers, or those who’d like a long career, 
 
 On your turn in a combat round, you can move once to an adjacent zone and take one action. You decide whether to move before you act, vice versa, or forgo either. 
 
-Actions can include attacking, moving for a *second* time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything within reason based on your character’s resources and situation.
+Actions can include attacking, moving for a *second* time, casting a spell, retrieving an item from your pack, swinging from a chandelier, or anything else within reason given your character’s resources and situation.
 
 Minor actions, such as drawing a weapon from a body inventory slot, dropping to the ground, or shouting a command, are free actions that do not count as your single action for the round.
 

@@ -1,10 +1,22 @@
 # Introduction
 
-==**DUNGEONEERS** is a… WORK IN PROGRESS==
+**DUNGEONEERS** is a fantasy-adventure tabletop roleplaying game. 
+
+You’ll play a newly minted *dungeoneer*: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade. You're no ordinary folk. You'll live a dangerous life, questing for gold and glory. You'll delve into dark, forgotten places best left undisturbed. With a little luck, you might retire before you die.
+
+## Gameplay
+
+The gameplay experience might be a bit different from what you’re used to. You’ll rely more on your creativity to solve problems than on a character sheet. You’ll use your ingenuity — by exploring, asking questions, and trying clever ideas — rather than choosing among character abilities.
+
+Your character won't be a superhero; you'll rise from humble beginnings to something legendary through grit and *your* decisions, not by escalating class powers. The world plays fair but isn't balanced for you, so your choices matter more than anything on your character sheet.
+
+If you’d like to read more about this gameplay style and how it differs from traditional RPGs, see the ==[Full Primer: Core Assumptions]()== in the Appendix.
+
+If this is your first role-playing game, you'll be up and running in no time. If you're a veteran, the system will feel familiar from the start.
 
 ## Before We Begin
 
-This game may explore dark themes, including violence and the supernatural. Before your first session, the GM and players should agree on which topics or themes to exclude.
+This game may explore dark themes, including violent and disturbing events. Before the first session, the game master (GM) and players should agree on which topics to exclude.
 
 Anyone at the table can call the following at any time:
 
@@ -14,7 +26,7 @@ Anyone at the table can call the following at any time:
 
 If someone calls a **Stop**, don't debate it. Move on to something new.
 
-## DUNGEONEERS' Credo
+## The Dungeoneer’s Credo
 
 1. People matter more than games.
 2. Fun matters more than rules.
@@ -22,14 +34,8 @@ If someone calls a **Stop**, don't debate it. Move on to something new.
 
 Ask questions. Take chances. The game rewards risk-taking.
 
-## Game Overview
-
-The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what you do. The GM explains the results of your actions, and you respond by describing additional actions, and so on. When the action you describe is risky and your desired outcome isn't assured, the GM will ask you to roll dice to determine the result.
-
-The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it's an interactive narrative shaped by you, your fellow players, and the GM. Everyone's choices influence the story. Think of it as both writing and starring in an action film at the same time.
-
 ## How to Use the Manual
 
-==In the next section, you'll create your character. You'll encounter game terms such as inventory slots and dice pools. Don't worry about them yet. The game's mechanics and rules are covered in later chapters.==
+In the next section, you'll create your character. You'll encounter game terms such as *inventory slots* and *attribute checks*. Don't worry about them yet. The game's mechanics and rules are covered in later chapters.
 
-==Use your character sheet as a reference while reading the manual. An online character sheet is available. A rules summary is included in the appendix and may be useful during missions.==
+Use your character sheet as a reference while reading the manual. An online character sheet is available. A ==[rules summary]()== is included in the Appendix and may be useful during missions.

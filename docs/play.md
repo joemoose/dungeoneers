@@ -8,6 +8,12 @@ The GM answers your questions and always respects your freedom of choice. The GM
 
 Suppose the outcome of your character’s actions isn’t immediately apparent, and the activity is risky. In that case, the GM might ask you to roll dice to determine an outcome.
 
+## Game Overview
+
+The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what you do. The GM explains the results of your actions, and you respond by describing additional actions, and so on. When the action you describe is risky and your desired outcome isn't assured, the GM will ask you to roll dice to determine the result.
+
+The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it's an interactive narrative shaped by you, your fellow players, and the GM. Everyone's choices influence the story. Think of it as both writing and starring in an action film at the same time.
+
 ## Safety
 
 Everyone at the table, players and GM, should feel safe exploring themes, characters, and storylines that might fall outside everyday topics of conversation. GMs and players should discuss what themes or topics will be in the game, won't ever be in the game, and might be in the game but only in passing. 
