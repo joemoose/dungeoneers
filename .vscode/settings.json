@@ -14,7 +14,7 @@
       "other": "off"
     }
   },
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "top",
   "workbench.statusBar.visible": false,
   "zenMode.centerLayout": true,
   "zenMode.fullScreen": false,
