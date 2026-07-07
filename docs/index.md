@@ -1,18 +1,18 @@
 # Introduction
 
-**DUNGEONEERS** is a fantasy-adventure tabletop roleplaying game. 
+**DUNGEONEERS** is a fantasy-adventure tabletop roleplaying game. You’ll play a newly minted *dungeoneer*: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade.
 
-You’ll play a newly minted *dungeoneer*: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade. You're no ordinary folk. You'll live a dangerous life, questing for gold and glory. You'll delve into dark, forgotten places best left undisturbed. With a little luck, you might retire before you die.
+You're no ordinary folk. You'll live a dangerous life, questing for gold and glory. You'll delve into dark, forgotten places best left undisturbed. With a little luck, you might retire before you die.
 
 ## Gameplay
 
-The gameplay experience might be a bit different from what you’re used to. You’ll rely more on your creativity to solve problems than on a character sheet. You’ll use your ingenuity — by exploring, asking questions, and trying clever ideas — rather than choosing among character abilities.
+The gameplay experience might be a bit different from what you’re used to. You’ll rely more on your creativity to solve problems than on a character sheet. You’ll use your ingenuity — by exploring, asking questions, and trying clever ideas — rather than choosing among skills and feats.
 
-Your character won't be a superhero; you'll rise from humble beginnings to something legendary through grit and *your* decisions, not by escalating class powers. The world plays fair but isn't balanced for you, so your choices matter more than anything on your character sheet.
+Your character won't be a superhero; you'll rise from humble beginnings to something legendary through grit and *your* decisions, not by automatically gaining new class powers. The world plays fair but isn't balanced for you, so your choices matter more than your character’s abilities.
 
-If you’d like to read more about this gameplay style and how it differs from traditional RPGs, see the ==[Full Primer: Core Assumptions]()== in the Appendix.
+If this is your first role-playing game, you'll be up and running in no time. If you're a veteran, the system will feel familiar from the start. Lean into the differences. Once you’re immersed in your first adventure, you'll enjoy the change of pace.
 
-If this is your first role-playing game, you'll be up and running in no time. If you're a veteran, the system will feel familiar from the start.
+If you'd like to know more about this style of gameplay, see the Appendix’s [A D&D Player's Guide to DUNGEONEERS](appendix.md#a-d-d-player-s-guide-to-dungeoneers).
 
 ## Before We Begin
 
@@ -38,4 +38,4 @@ Ask questions. Take chances. The game rewards risk-taking.
 
 In the next section, you'll create your character. You'll encounter game terms such as *inventory slots* and *attribute checks*. Don't worry about them yet. The game's mechanics and rules are covered in later chapters.
 
-Use your character sheet as a reference while reading the manual. An online character sheet is available. A ==[rules summary]()== is included in the Appendix and may be useful during missions.
+Use your character sheet as a reference while reading the manual. An ==[online character sheet]()== is available. A [Rules Summary](appendix.md#rules-summary) is included in the Appendix and may be useful during the game.
