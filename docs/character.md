@@ -1,19 +1,19 @@
 # Characters
 
-You're a newly minted **DUNGEONEER**: a tomb-raiding, treasure-seeking, door-kicking adventurer who wields a spellbook as readily as a blade. You're no ordinary folk. You'll live a dangerous life, questing for gold and glory. You'll delve into dark, forgotten places best left undisturbed. With a little luck, you might just retire before you die.
+## Introduction
 
-Follow these steps to create your character.
+==TEXT TEXT TEXT==
 
-## Dice Notation
+## ~~Dice Notation~~
 
-Before we start creating your character, here's a summary of the dice notation.
+~~Before we start creating your character, here's a summary of the dice notation.~~
 
-| Roll | Description |
-| :-: | - |
-| 1d3 | Roll one six-sided die, divide the result by two, and round up. |
-| 1d6 | Roll one six-sided die. |
-| 2d6 | Roll two six-sided dice and add the results. |
-| d66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a **2** followed by a **4** is **24**. A **1** followed by another **1** is **11**. |
+~~| Roll | Description |~~
+~~| :-: | - |~~
+~~| 1d3 | Roll one six-sided die, divide the result by two, and round up. |~~
+~~| 1d6 | Roll one six-sided die. |~~
+~~| 2d6 | Roll two six-sided dice and add the results. |~~
+~~| d66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a **2** followed by a **4** is **24**. A **1** followed by another **1** is **11**. |~~
 
 ## Step 1: Backstory
 

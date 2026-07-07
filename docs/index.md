@@ -12,7 +12,7 @@ Your character won't be a superhero; you'll rise from humble beginnings to somet
 
 If this is your first role-playing game, you'll be up and running in no time. If you're a veteran, the system will feel familiar from the start. Lean into the differences. Once you’re immersed in your first adventure, you'll enjoy the change of pace.
 
-If you'd like to know more about this style of gameplay, see the Appendix’s [A D&D Player's Guide to DUNGEONEERS](appendix.md#a-d-d-player-s-guide-to-dungeoneers).
+If you'd like to know more about this style of gameplay, see the Appendix’s [A D&D Player's Guide to DUNGEONEERS](appendix.md#a-dd-players-guide-to-dungeoneers).
 
 ## Before We Begin
 

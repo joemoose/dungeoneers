@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your specialty within the party is shaped in part by the equipment you carry.
+Your specialty within the party is shaped, in part, by the equipment you carry.
 
 ## Inventory slots
 
@@ -61,7 +61,7 @@ There are two types of protective gear: base armor and secondary protective item
 - Can be sundered to avoid all damage from an attack; the shield is destroyed.
 - Can be used as a dual weapon (as a cudgel) instead of providing +1 armor; declare its use as a weapon before a combat round begins.
 
-**Armor List**
+### Armor List
 
 | Type | Armor Rating | Inv Slots | Coins |
 | - |:-:|:-:| -:|
@@ -91,7 +91,7 @@ You can use any weapon as you see fit. Most weapons have characteristics that af
 - ***Two-handed***: This weapon requires two hand slots.
 - ***Versatile***: This weapon has two entries noted under damage; it deals the first wielded with one hand and adds the bonus damage die when wielded with both hands (roll both dice, take the best).
 
-**Weapons List**
+### Weapons List
 
 | Weapon | Damage | Notes | Coins |
 |:- |:-:|:- | -:|

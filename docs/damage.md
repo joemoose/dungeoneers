@@ -8,7 +8,7 @@ After your HP is depleted, all damage is dealt to your **Strength** or **Dexteri
 
 After taking STR or DEX attribute damage, you must make an attribute save for the respective attribute. If the save succeeds, you’re still in the action and can continue fighting. If you fail, you take **critical damage**.
 
-!!! note "Note"
+!!! note
 
 	As your attributes are damaged, the associated attribute damage modifier might decrease. The modifier is determined by your current attribute score, not the total (undamaged) score.
 

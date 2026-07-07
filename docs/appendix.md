@@ -2,7 +2,7 @@
 
 ---
 
-### TL;DR
+## TL;DR
 
 *In DUNGEONEERS, you'll solve problems with your ingenuity, not your character sheet.*
 

@@ -167,11 +167,11 @@ Strength and Dexterity are your physical attributes. Intelligence and Willpower 
 
 Strength is a prime attribute for combat. Dexterity is useful for stealth and thievery. Intellect is essential for exploration and scholarly pursuits. Casting spells or leading others requires Willpower. Luck has saved many an adventurer.
 
-- Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK and the other four as you prefer to your STR, DEX, INT, and WIL.
+- Roll **2d6+4** five times, noting the results. Assign the lowest value to LUCK, and assign the other four to your STR, DEX, INT, and WIL as you prefer.
 
 ### Attribute Damage Modifiers
 
-Next, determine each attribute score's die roll **modifier**. You apply these modifiers to damage when attacking.
+Next, determine the die roll modifier for each attribute score. You apply these modifiers to damage when attacking.
 
 | Score | 1–3 | 4–5 | 6–8 | 9–12 | 13–15 | 16–17 | 18 |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
