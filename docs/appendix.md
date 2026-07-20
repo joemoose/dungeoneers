@@ -12,7 +12,7 @@
 
 ### Inspiration
 
-DUNGEONEERS is inspired by the early days of tabletop RPGs, a style of play known as the "Old School Renaissance." If you're familiar with modern Dungeons & Dragons, some of its conventions about how an RPG works may not apply. This guide highlights four foundational differences.
+DUNGEONEERS is inspired by the early days of tabletop RPGs, a style of play known as the "Old School Renaissance." If you're familiar with modern Dungeons & Dragons, some of its conventions about how an RPG works may not apply. This guide highlights four key differences.
 
 ### Foundation 1: Rulings, Not Rules
 

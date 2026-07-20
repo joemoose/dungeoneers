@@ -15,7 +15,7 @@
     }
   },
   "workbench.activityBar.location": "top",
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "zenMode.centerLayout": true,
   "zenMode.fullScreen": false,
   "zenMode.hideLineNumbers": true,
