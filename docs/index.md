@@ -4,7 +4,7 @@
 
 ## Gameplay
 
-The gameplay experience might be a bit different from what you’re used to. You’ll rely more on your creativity to solve problems than on a character build. You’ll use your ingenuity — by exploring, asking questions, and trying clever ideas — rather than choosing among features, feats, and skills.
+The gameplay experience might be a bit different from what you’re used to. You’ll rely more on your creativity to solve problems than on a character build. You’ll use ingenuity — by exploring, asking questions, and trying clever ideas — rather than choosing among character-class features, feats, and skills.
 
 Lean into the differences. Once you're immersed in your first adventure, you'll enjoy the change of pace. If this is your first role-playing game, you'll be up and running in no time. If you're a veteran, the system will feel familiar from the start.
 
